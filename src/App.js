@@ -64,6 +64,7 @@ function App() {
   return (
     <div className="App">
       <h1>CRUD Operation</h1>
+      
       <table className='table table-hover'>
         <thead>
           <tr>
